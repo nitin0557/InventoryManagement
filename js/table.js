@@ -1,3 +1,5 @@
+import "../css/style.css";
+
 const data = [
   {
     ChemicalName: "Sodium Hydroxide",
@@ -334,17 +336,41 @@ function resetModification() {
   saveButton.style.cursor = "not-allowed";
 }
 
-// Sorting functionality
+let sortDirection = true; // Track sorting direction (true = ascending, false = descending)
+
 function sortTableByColumn(columnIndex) {
-  const key = Object.keys(data[0])[columnIndex];
-  data.sort((a, b) =>
-    typeof a[key] === "string" ? a[key].localeCompare(b[key]) : a[key] - b[key]
-  );
+  const dataKeyMap = [
+    "ChemicalName",
+    "Vendor",
+    "Density",
+    "Viscosity",
+    "Packaging",
+    "PackSize",
+    "Unit",
+    "Quantity",
+  ];
+  const key = dataKeyMap[columnIndex - 1];
+
+  data.sort((a, b) => {
+    const aValue = a[key];
+    const bValue = b[key];
+
+    if (typeof aValue === "string") {
+      return sortDirection
+        ? aValue.localeCompare(bValue)
+        : bValue.localeCompare(aValue);
+    } else {
+      return sortDirection ? aValue - bValue : bValue - aValue;
+    }
+  });
+
   loadTableData();
 }
 
 document.querySelectorAll("th").forEach((header, index) => {
-  header.addEventListener("click", () => sortTableByColumn(index));
+  if (index > 0) {
+    header.addEventListener("click", () => sortTableByColumn(index));
+  }
 });
 
 loadTableData();
