@@ -238,8 +238,8 @@ On Mobile Screen
   Before and After sorting
 
   
-  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m6.png)
-  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m7.png)
+  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/mobile6.png)
+  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/mobile7.png)
 
  
 
