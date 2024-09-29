@@ -151,7 +151,7 @@ function loadTableData() {
     Object.values(dataKey).forEach((key, i) => {
       const td = document.createElement("td");
       td.innerText = key;
-      td.style.width = "10%";
+      td.style.width = "20%";
       tr.appendChild(td);
 
       td.addEventListener("dblclick", (event) => {
