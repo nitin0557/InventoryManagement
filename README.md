@@ -1,4 +1,4 @@
-Project Documentation
+	Project Documentation
 1. Project Overview
 Design:
 •	Reference Page: Follow the design layout from a specified reference page.
@@ -250,7 +250,10 @@ On Mobile Screen
 
 
 
-6.	Delete functionality	
+
+
+6.	Delete functionality
+   
       ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m10.png)
       ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m11.png)
 
