@@ -211,6 +211,7 @@ After Sorting On Chemical Name
 On Mobile Screen 
 
 1.	Add New Row
+
    ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m1.png)
 
 
@@ -226,7 +227,7 @@ On Mobile Screen
 5.	Move Row Downward
 	
     ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m4.png)
-  	![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m5.png)
+    ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m5.png)
 
 
 
@@ -237,21 +238,19 @@ On Mobile Screen
   Before and After sorting
 
      ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m6.png)
-     
      ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m7.png)
 
 
 4.	Edit ,Save and Refresh row functionality
 
   	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m8.png)
-  	
-       ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m9.png)
+  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m9.png)
 
 
 
 6.	Delete functionality
+7.	
       ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m10.png)
-  	
       ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m11.png)
 
 
