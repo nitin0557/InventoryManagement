@@ -233,11 +233,10 @@ On Mobile Screen
 
 
 
-3: Sorting Column Header 
+3.  Sorting Column Header 
 
   Before and After sorting
 
-  
   	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/mobile6.png)
   	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/mobile7.png)
 
@@ -250,8 +249,7 @@ On Mobile Screen
 
 
 
-6.	Delete functionality
-7.	
+6.	Delete functionality	
       ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m10.png)
       ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m11.png)
 
