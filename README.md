@@ -50,4 +50,194 @@ npm run deploy
 11.	Material ui icons used in toolbar
 12.	Responsive across mobile and laptop devices
 
-![image](https://github.com/user-attachments/assets/c7e50a54-b5b8-4d94-9289-426c66b4a9cd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add new Row  functionality on Laptops
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/c7e50a54-b5b8-4d94-9289-426c66b4a9cd.png)
+
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p2.png)
+
+
+
+
+
+ 
+
+
+Move row Upward functionality on Laptops
+
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p3.png)
+
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p4.png)
+
+
+ 
+
+
+
+
+
+ 
+
+Move row Downward functionality on Laptops
+
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p5.png)
+ 
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p6.png)
+
+
+ 
+
+
+
+
+Delete Row functionality
+
+
+ 
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p7.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p8.png)
+
+
+
+ 
+
+
+
+Refresh Functionality
+
+ ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p9.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p10.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p11.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p12.png)
+
+
+
+ 
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+Edit functionality
+
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p13.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p14.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p15.png)
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+Sorting Columns header functionality on Laptop
+
+Before  Sorting Chemical Name
+
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p16.png)
+
+
+
+ 
+
+
+
+
+
+
+
+
+After Sorting On Chemical Name
+
+
+
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p17.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On Mobile Screen 
+
+1.	Add New Row
+
+ 
+2.	On Move Row Upward
+
+  
+3.	Move Row Downward
+
+        
+
+
+3: Sorting Column Header 
+  Before and After sorting
+
+   
+
+
+
+
+
+4.	Edit ,Save and Refresh row functionality
+    
+
+
+   
+
+
+5.	Delete functionality
+
+   
+![image](https://github.com/user-attachments/assets/07bf0afe-14dc-44a0-b5e4-7605bbcc694f)
