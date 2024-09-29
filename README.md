@@ -72,6 +72,7 @@ npm run deploy
 
 
 Add new Row  functionality on Laptops
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/c7e50a54-b5b8-4d94-9289-426c66b4a9cd.png)
 
 
  
