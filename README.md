@@ -74,8 +74,9 @@ npm run deploy
 Add new Row  functionality on Laptops
 ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/c7e50a54-b5b8-4d94-9289-426c66b4a9cd.png)
 
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p2.png)
 
- 
+
 
 
 
@@ -83,6 +84,10 @@ Add new Row  functionality on Laptops
 
 
 Move row Upward functionality on Laptops
+
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p3.png)
+
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p4.png)
 
 
  
@@ -95,8 +100,9 @@ Move row Upward functionality on Laptops
 
 Move row Downward functionality on Laptops
 
-
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p5.png)
  
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p6.png)
 
 
  
@@ -108,6 +114,8 @@ Delete Row functionality
 
 
  
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p7.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p8.png)
 
 
 
@@ -117,7 +125,11 @@ Delete Row functionality
 
 Refresh Functionality
 
- 
+ ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p9.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p10.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p11.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p12.png)
+
 
 
  
@@ -139,6 +151,11 @@ Refresh Functionality
 
 Edit functionality
 
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p13.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p14.png)
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p15.png)
+
+
 
  
 
@@ -152,6 +169,9 @@ Edit functionality
 Sorting Columns header functionality on Laptop
 
 Before  Sorting Chemical Name
+
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p16.png)
+
 
 
  
@@ -167,7 +187,8 @@ After Sorting On Chemical Name
 
 
 
- 
+![image](https://github.com/nitin0557/javascripttable/blob/main/assets/p17.png)
+
 
 
 
