@@ -211,33 +211,48 @@ After Sorting On Chemical Name
 On Mobile Screen 
 
 1.	Add New Row
+   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m1.png)
+
 
  
-2.	On Move Row Upward
+3.	On Move Row Upward
+   
+ ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m2.png)
+ ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m3.png)
+
+
 
   
-3.	Move Row Downward
+5.	Move Row Downward
+	
+    ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m4.png)
+  	![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m5.png)
 
-        
+
+
 
 
 3: Sorting Column Header 
+
   Before and After sorting
 
-   
-
-
-
+     ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m6.png)
+     
+     ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m7.png)
 
 
 4.	Edit ,Save and Refresh row functionality
-    
+
+  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m8.png)
+  	
+       ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m9.png)
+
+
+
+6.	Delete functionality
+      ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m10.png)
+  	
+      ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m11.png)
 
 
    
-
-
-5.	Delete functionality
-
-   
-![image](https://github.com/user-attachments/assets/07bf0afe-14dc-44a0-b5e4-7605bbcc694f)
