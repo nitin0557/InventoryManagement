@@ -215,8 +215,7 @@ On Mobile Screen
    ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m1.png)
 
 
- 
-3.	On Move Row Upward
+ 2.	On Move Row Upward
    
  ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m2.png)
  ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m3.png)
@@ -224,7 +223,7 @@ On Mobile Screen
 
 
   
-5.	Move Row Downward
+3.	Move Row Downward
 	
     ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m4.png)
     ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m5.png)
@@ -233,12 +232,7 @@ On Mobile Screen
 
 
 
-3.  Sorting Column Header 
 
-  Before and After sorting
-
-  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/mobile6.png)
-  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/mobile7.png)
 
  
 
@@ -246,6 +240,13 @@ On Mobile Screen
 
   	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m8.png)
   	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m9.png)
+
+   
+4.  Sorting Column Header 
+  Before and After sorting
+
+  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/mobile6.png)
+  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/mobile7.png)
 
 
 
