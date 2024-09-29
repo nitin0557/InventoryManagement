@@ -237,9 +237,11 @@ On Mobile Screen
 
   Before and After sorting
 
-     ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m6.png)
-     ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m7.png)
+  
+  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m6.png)
+  	   ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m7.png)
 
+ 
 
 4.	Edit ,Save and Refresh row functionality
 
