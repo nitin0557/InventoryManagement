@@ -218,13 +218,13 @@ On Mobile Screen
 3.	On Move Row Upward
    
  ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m2.png)
-![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m3.png)
+ ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m3.png)
 
 
 
   
 5.	Move Row Downward
-6.	
+	
     ![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m4.png)
   	![image](https://github.com/nitin0557/javascripttable/blob/main/assets/m5.png)
 
